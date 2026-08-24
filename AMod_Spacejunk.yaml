@@ -2,9 +2,9 @@ exhibit: AMod_Spacejunk
 
 # internal — input for extract_exhibit.py, NOT shown on the card
 source:
-  kind: zip
-  path: C:/Users/ringill/repo/space_rangers/tmp/Solyanka.zip
-  target: Mods/AnotherMods/AMod_Spacejunk
+  - kind: zip
+    path: C:/Users/ringill/repo/space_rangers/tmp/Solyanka.zip
+    target: Mods/AnotherMods/AMod_Spacejunk
 
 # public — acquisition route, rendered in the card README.md
 acquire:
