@@ -1,4 +1,4 @@
-# 🗄️ AMod_Spacejunk
+# 🥣 AMod_Spacejunk
 
 * **Name:** AMod_Spacejunk
 * **Author:** Huk
