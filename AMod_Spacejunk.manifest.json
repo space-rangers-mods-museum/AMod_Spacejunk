@@ -12,8 +12,9 @@
   ],
   "exhibit_archive": {
     "path": "AMod_Spacejunk.zip",
-    "size": 4965,
-    "sha256": "8ff75c207d8c1c9b931e4f36be2b7e0cf078d116bf9694ec0467c90098cef564",
+    "size": 5285,
+    "sha256": "9407237c14f903f3aa9f8a5dc6380d858ce730c6c9f40b69dea1347381587726",
+    "root": "Mods/AnotherMods/AMod_Spacejunk",
     "entries": 5
   },
   "files": [

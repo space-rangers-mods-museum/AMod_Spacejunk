@@ -50,7 +50,7 @@ acquire:
 | Data/Script/mod_spacejunk.scr | 02f86e2922b8f83ab3bf110e3d8c3d30aad2317ddfde6664623999a05d998be4 |
 | ModuleInfo.txt                | f87c85ece90113691e7119f9b01e6b4f43198e2cd13fe63f6d54fcac7293fd39 |
 
-> Final archive: [`AMod_Spacejunk.zip`](https://github.com/space-rangers-mods-museum/AMod_Spacejunk/releases/download/v1.0.0/AMod_Spacejunk.zip) · SHA-256 `8ff75c207d8c1c9b931e4f36be2b7e0cf078d116bf9694ec0467c90098cef564`
+> Final archive: [`AMod_Spacejunk.zip`](https://github.com/space-rangers-mods-museum/AMod_Spacejunk/releases/download/v1.0.0/AMod_Spacejunk.zip) · SHA-256 `9407237c14f903f3aa9f8a5dc6380d858ce730c6c9f40b69dea1347381587726`
 
 ---
 
